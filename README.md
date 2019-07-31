@@ -1,21 +1,21 @@
 # heroku-tutorial
--install heroku on termux
+- install heroku on termux
 ```
 $ pkg install nodejs
 
 $ npm i -g heroku
 ```
--heroku login
+- heroku login
 ```
 heroku login
 ```
 # deploy php heroku
--create repoaitori git
--inisial remote heroku
+- create repoaitori git
+- inisial remote heroku
 ```
 heroku create
 ```
--deploy
+- deploy
 ```
 git push heroku master
 ```
