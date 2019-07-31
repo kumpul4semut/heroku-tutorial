@@ -9,3 +9,13 @@ $ npm i -g heroku
 ```
 heroku login
 ```
+# deploy php heroku
+-create repoaitori git
+-inisial remote heroku
+```
+heroku create
+```
+-deploy
+```
+git push heroku master
+```
